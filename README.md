@@ -1,5 +1,7 @@
 # A glossary of terms useful for these projects
 
+BNG - British National Grid, the map projection used for Ordnance Survey mapping in Great Britain.
+
 GSS - Government Statistical Service
 
 GSS Code - many of the geographies that we use (wards, local authorities, countries) are assigned 9 character codes by the Government Statistical Service. Hence GSS codes. The GSS code for Sheffield is `E08000019`.
